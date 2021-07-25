@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahinmeric
 - 👀 I’m interested in MERN stack web development
-- 🌱 I’m currently learning Express, EJS, MongoDB
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sahin.meric86@gmail.com
 
