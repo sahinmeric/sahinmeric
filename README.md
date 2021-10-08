@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahinmeric
 - 👀 I’m interested in MERN stack web development
-- 🌱 I’m currently studying Software Engineering
+- 🌱 I’m currently studying Software Engineering at Holberton School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sahin.meric86@gmail.com
 - My latest React project https://wonderful-wilson-c25069.netlify.app/
