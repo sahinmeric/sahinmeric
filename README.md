@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ... sahin.meric86@gmail.com
 - My latest React project https://wonderful-wilson-c25069.netlify.app/
-- My sipmple website for Holberton https://elastic-chandrasekhar-6455be.netlify.app 
+- My sipmple website for Holberton https://elastic-chandrasekhar-6455be.netlify.app (please note that I had to follow instructions given those forbids to use external libraries and tools)
 
 <!---
 sahinmeric/sahinmeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
