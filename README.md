@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sahinmeric
-- 👀 I’m interested in MERN stack web development
+- 👀 I’m interested in Sofware Development, Web Development, Machine Learning, AI and Data Science
 - 🌱 I’m currently studying Software Engineering at Holberton School
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ... sahin.meric86@gmail.com
 - My latest React project https://wonderful-wilson-c25069.netlify.app/
-- My website for Holberton https://elastic-chandrasekhar-6455be.netlify.app
+- My sipmple website for Holberton https://elastic-chandrasekhar-6455be.netlify.app 
 
 <!---
 sahinmeric/sahinmeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
