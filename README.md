@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sofware Development, Web Development, Machine Learning, AI and Data Science
 - 🌱 I’m Software Engineering Alumni at Holberton School
 - 💞️ I’m looking to collaborate on any project that I can improve my skills.
-- 📫 How to reach me ... sahin.meric86@gmail.com
+- 📫 How to reach me ... sahinmeric22@gmail.com
 - My latest project https://www.ahorrapp.me
 - My website www.sahinmeric.com
 <!---
