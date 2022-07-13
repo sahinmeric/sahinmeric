@@ -3,7 +3,7 @@
 - 🌱 I’m Software Development Alumni at Holberton School
 - 💞️ I’m looking to collaborate on any project that I can improve my skills.
 - 📫 How to reach me ... sahinmeric22@gmail.com
-- My latest project https://www.ahorrapp.me
+- Latest project I worked https://www.ahorrapp.me
 - My website www.sahinmeric.com
 <!---
 sahinmeric/sahinmeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
