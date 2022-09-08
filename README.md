@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sahinmeric
-- 👀 I’m interested in Sofware Development, Web Development, Machine Learning, AI and Data Science
-- 🌱 I’m Software Development Alumni at Holberton School
-- 💞️ I’m looking to collaborate on any project that I can improve my skills.
+- 👀 I’m interested in Sofware Development, Web Development, DevOps, and Data Analysis.
+- 🌱 I’m Software Development Alumni at Holberton School.
+- 💞️ I’m looking to collaborate on any project that I can improve my skills.(Python, Django, Javascript, Node.js, React )
 - 📫 How to reach me ... sahinmeric22@gmail.com
-- Latest project I worked https://www.ahorrapp.me
+- Latest project I worked with https://www.ahorrapp.me
 - My website www.sahinmeric.com
 <!---
 sahinmeric/sahinmeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
