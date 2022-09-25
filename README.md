@@ -5,6 +5,7 @@
 - 📫 How to reach me ... sahinmeric22@gmail.com
 - My latest project https://www.ahorrapp.store
 - My website https://www.sahinmeric.com
+- My LinkedIn https://linkedin.com/in/sahinmeric
 <!---
 sahinmeric/sahinmeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
