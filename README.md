@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahinmeric
 - 👀 I’m interested in Sofware Development, Web Development, DevOps, and Data Analysis.
-- 🌱 I’m Software Development Alumni at Holberton School.
-- 💞️ I’m looking to collaborate on any project that I can improve my skills.(Python, Django, Javascript, Node.js, React )
+- 🌱 I’m currently working as a Full Stack Developer.
+- 💞️ I’m looking to collaborate on any project that I can improve my skills.(React, Typescript, Python, Django, Javascript, Node.js )
 - 📫 How to reach me ... sahinmeric22@gmail.com
 - My latest project https://www.ahorrapp.store
 - My website https://www.sahinmeric.com
