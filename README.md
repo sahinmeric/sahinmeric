@@ -1,13 +1,10 @@
 ### 👋 Hi, I'm @sahinmeric
-
 ### About Me
 I am a Full-Stack Developer and Certified Ethical Hacker with extensive experience in front-end development.
-
 ### Interests
 - **Software Development**
 - **Web Development**
 - **Cybersecurity**
-
 ### Currently Seeking
 - 🌱 I am currently looking for opportunities to grow professionally and improve my skills in:
   - React
@@ -17,17 +14,10 @@ I am a Full-Stack Developer and Certified Ethical Hacker with extensive experien
   - JavaScript
   - Node.js
   - Cybersecurity
-
-### Looking to Collaborate On
-- Projects where I can further develop my expertise and contribute meaningfully.
-
 ### Contact Me
 - 📫 Email: sahinmeric22@gmail.com
-
-### My Links
 - 🌐 [My Website](https://www.sahinmeric.com)
 - 🔗 [My LinkedIn](https://linkedin.com/in/sahinmeric)
-
 ### My Latest Project
 - [Minstagram on GitHub](https://github.com/sahinmeric/minstagram)
 - [Minstagram Live](https://minstagram1.web.app/)
