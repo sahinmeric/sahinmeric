@@ -8,17 +8,17 @@ I am a Full-stack developer with a strong focus on front-end development.
 - **Web Development**
 - **Cybersecurity**
 
-### Current Role
-- 🌱 Currently working as a Front-end Developer.
-
-### Looking to Collaborate On
-- Projects where I can improve my skills, especially in:
+### Currently Seeking
+- 🌱 I am currently looking for opportunities to grow professionally and improve my skills in:
   - React
   - TypeScript
   - Python
   - Django
   - JavaScript
   - Node.js
+
+### Looking to Collaborate On
+- Projects where I can further develop my expertise and contribute meaningfully.
 
 ### Contact Me
 - 📫 Email: sahinmeric22@gmail.com
@@ -30,7 +30,3 @@ I am a Full-stack developer with a strong focus on front-end development.
 ### My Latest Project
 - [Minstagram on GitHub](https://github.com/sahinmeric/minstagram)
 - [Minstagram Live](https://minstagram1.web.app/)
-
----
-
-You can click the Preview link to take a look at your changes.
