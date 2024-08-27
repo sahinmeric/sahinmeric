@@ -18,6 +18,9 @@ I am a Full-Stack Developer and Certified Ethical Hacker with extensive experien
 - 📫 Email: sahinmeric22@gmail.com
 - 🌐 [My Website](https://www.sahinmeric.com)
 - 🔗 [My LinkedIn](https://linkedin.com/in/sahinmeric)
-### My Latest Project
+### My Latest Projects
+- [Register page on GitHub](https://github.com/sahinmeric/register_page)
+- [Register page Live](https://celebrated-bubblegum-b0c618.netlify.app/register)
+  
 - [Minstagram on GitHub](https://github.com/sahinmeric/minstagram)
 - [Minstagram Live](https://minstagram1.web.app/)
