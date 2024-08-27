@@ -1,26 +1,23 @@
 ### 👋 Hi, I'm @sahinmeric
-### About Me
-I am a Full-Stack Developer and Certified Ethical Hacker with extensive experience in front-end development.
-### Interests
-- **Software Development**
-- **Web Development**
+
+#### 🧑‍💻 About Me
+I'm a Full-Stack Developer and Certified Ethical Hacker with a strong focus on front-end development.
+
+#### 🎯 Interests
+- **Software & Web Development**
 - **Cybersecurity**
-### Currently Seeking
-- 🌱 I am currently looking for opportunities to grow professionally and improve my skills in:
-  - React
-  - TypeScript
-  - Python
-  - Django
-  - JavaScript
-  - Node.js
-  - Cybersecurity
-### Contact Me
-- 📫 Email: sahinmeric22@gmail.com
-- 🌐 [My Website](https://www.sahinmeric.com)
-- 🔗 [My LinkedIn](https://linkedin.com/in/sahinmeric)
-### My Latest Projects
-- [Register page on GitHub](https://github.com/sahinmeric/register_page)
-- [Register page Live](https://celebrated-bubblegum-b0c618.netlify.app/register)
-  
-- [Minstagram on GitHub](https://github.com/sahinmeric/minstagram)
-- [Minstagram Live](https://minstagram1.web.app/)
+
+#### 🌱 Currently Seeking
+Opportunities to grow in:
+- React | TypeScript | JavaScript
+- Python | Django | Node.js
+- Cybersecurity
+
+#### 📬 Contact
+- **Email:** sahinmeric22@gmail.com
+- **Website:** [sahinmeric.com](https://www.sahinmeric.com)
+- **LinkedIn:** [sahinmeric](https://linkedin.com/in/sahinmeric)
+
+#### 🚀 Latest Projects
+- **[Registration Page](https://github.com/sahinmeric/register_page):** [Live](https://celebrated-bubblegum-b0c618.netlify.app/register)
+- **[Minstagram](https://github.com/sahinmeric/minstagram):** [Live](https://minstagram1.web.app/)
