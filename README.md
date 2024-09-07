@@ -20,4 +20,5 @@ Opportunities to grow in:
 
 #### 🚀 Latest Projects
 - **[Registration Page](https://github.com/sahinmeric/register_page):** [Live](https://celebrated-bubblegum-b0c618.netlify.app/register)
+- **[Anime-finder](https://github.com/sahinmeric/anime-finder):** [Live](https://anime-finder-tan.vercel.app/)
 - **[Minstagram](https://github.com/sahinmeric/minstagram):** [Live](https://minstagram1.web.app/)
