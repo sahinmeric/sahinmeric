@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm @sahinmeric
 
 #### 🧑‍💻 About Me
-I'm a Full-Stack Developer and Certified Ethical Hacker with a strong focus on front-end development.
+I'm a Full-Stack Developer with strong focus on front-end development.
 
 #### 🎯 Interests
 - **Software & Web Development**
