@@ -18,6 +18,7 @@ Opportunities to grow as:
 - **LinkedIn:** [sahinmeric](https://linkedin.com/in/sahinmeric)
 
 #### 🚀 Latest Projects
+- **[Demand Forecast](https://github.com/sahinmeric/demand-forecast):** [Live](https://demand-forecast-production-6d66.up.railway.app/)
 - **[Konecta CRM](https://github.com/sahinmeric/konecta-crm-app):** 
 - **[Registration Page](https://github.com/sahinmeric/register_page):** [Live](https://celebrated-bubblegum-b0c618.netlify.app/register)
 - **[Anime-finder](https://github.com/sahinmeric/anime-finder):** [Live](https://anime-finder-tan.vercel.app/)
